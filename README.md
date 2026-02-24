@@ -8,7 +8,6 @@
 <meta name="apple-mobile-web-app-title" content="IdealFit">
 <meta name="theme-color" content="#1a3a2a">
 <meta name="format-detection" content="telephone=no">
-<title>IdealFit — Kalkulator Berat Badan Ideal</title>
 <link href="https://fonts.googleapis.com/css2?family=Fredoka+One&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
 <style>
   :root {
